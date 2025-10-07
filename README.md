@@ -66,7 +66,7 @@ rmse = np.sqrt(mse)
 print("Mean Absolute Error:", mae)
 print("Mean Squared Error:", mse)
 print("Root Mean Squared Error:", rmse)
-
+```
 ## Output:
 Hours: 1 2 3 4 5 6 7 8 9 10
 Scores: 10 20 25 35 45 50 60 65 75 80
@@ -78,7 +78,6 @@ Root Mean Squared Error: 1.007378101548664
 ![ml ex ](https://github.com/user-attachments/assets/b1a992ab-193c-4e24-aa86-a545921f020c)
 ![ML EX-01](https://github.com/user-attachments/assets/b50fe0cc-c0b8-49a2-a268-1f76126b594f)
 
-```
 
 
 ## Result:
