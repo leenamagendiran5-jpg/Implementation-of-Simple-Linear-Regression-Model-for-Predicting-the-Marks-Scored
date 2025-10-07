@@ -72,14 +72,12 @@ Hours: 1 2 3 4 5 6 7 8 9 10
 Scores: 10 20 25 35 45 50 60 65 75 80
 Predicted Scores: 73.73762376237624 18.811881188118804 50.1980198019802
 Actual Scores: 75 20 50
-<img width="835" height="570" alt="{E0049E9B-1792-47B6-9717-A936FEDF8D9A}" src="https://github.com/user-attachments/assets/d39f8bd8-34bf-4d7d-a35b-d8f699fa04fd" />
-<img width="884" height="596" alt="{7D9D866A-DD36-4EA8-8DD3-19F3E8081F7A}" src="https://github.com/user-attachments/assets/f121a4c0-2655-4413-809f-b675850429bc" />
+<img width="803" height="571" alt="image" src="https://github.com/user-attachments/assets/4da39683-fbd6-4501-9d58-a5e466035ccf" />
+<img width="835" height="574" alt="{7C5F1CA4-AEEE-4A99-A644-9547A8791CD8}" src="https://github.com/user-attachments/assets/d1484cff-a4c6-4f25-bf28-28f037ab9fbc" />
+
 Mean Absolute Error: 0.8828382838283844
 Mean Squared Error: 1.0148106394797904
 Root Mean Squared Error: 1.007378101548664
-​
-
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
