@@ -68,6 +68,7 @@ print("Mean Squared Error:", mse)
 print("Root Mean Squared Error:", rmse)
 ```
 ## Output:
+```
 Hours: 1 2 3 4 5 6 7 8 9 10
 Scores: 10 20 25 35 45 50 60 65 75 80
 Predicted Scores: 73.73762376237624 18.811881188118804 50.1980198019802
@@ -75,6 +76,7 @@ Actual Scores: 75 20 50
 Mean Absolute Error: 0.8828382838283844
 Mean Squared Error: 1.0148106394797904
 Root Mean Squared Error: 1.007378101548664
+```
 ![ml ex ](https://github.com/user-attachments/assets/b1a992ab-193c-4e24-aa86-a545921f020c)
 ![ML EX-01](https://github.com/user-attachments/assets/b50fe0cc-c0b8-49a2-a268-1f76126b594f)
 
